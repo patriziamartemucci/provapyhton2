@@ -1,4 +1,4 @@
 def stampa(mess):
     print(mess)
 mess=input("scrivi un messaggio")
-stampa(mess)
+stampa('messaggio inserito:',mess)
